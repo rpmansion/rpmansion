@@ -1,4 +1,8 @@
-### Hello World, I'm Robert 👋🏽
+### Hello World, I'm Robert Mansion! 👋🏽
+
+I'm a software engineer specialize in .NET Development specifically in web and integration.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rpmansion&show_icons=true&theme=default)
 
 <!--
 **rpmansion/rpmansion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
