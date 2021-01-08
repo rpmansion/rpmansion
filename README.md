@@ -4,6 +4,8 @@ I'm a software engineer specialize in .NET Development specifically in web and i
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rpmansion&show_icons=true&theme=default)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpmansion&layout=compact&hide=html&theme=default)
+
 <!--
 **rpmansion/rpmansion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
